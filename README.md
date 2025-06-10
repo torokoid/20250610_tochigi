@@ -142,7 +142,7 @@ p.note { display: none; }
     
     
     
-<h2><span class="yellow">9日は梅雨入り前に最後の羽黒山<br>徒歩と自転車で来た登山者達としばしの世間話になりました</span></h2>
+<h2><span class="yellow">9日は梅雨入り前に最後の羽黒山<br>徒歩と自転車で来た登山者達としばしの世間話になりました<br>徒歩の方は70代後半の元気なお爺ちゃん！</span></h2>
 <a href="20250610_001.JPG" target="_blank"><img src="20250610_001.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">周囲の景色は霞みっぱなし</span></h2>
