@@ -206,7 +206,7 @@ p.note { display: none; }
 <a href="20250610_003.PNG" target="_blank"><img src="20250610_003.PNG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
-<a href="https://cluster.mu/" target="_blank">Clusterの説明リンク貼りますね〜(この文字クリックで飛びます)</a>
+<h2><span class="yellow"><a href="https://cluster.mu/" target="_blank">Clusterの説明リンク貼りますね〜(この文字クリックで飛びます)</a></span></h2>
 
 
 <br><br><br><br><br><br><br><br><br>
