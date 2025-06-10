@@ -195,7 +195,7 @@ p.note { display: none; }
 <a href="20250610_028.JPG" target="_blank"><img src="20250610_028.JPG" alt="サンプル画像" width="900" /></a>
 
 
-<br><br>
+<br><br><br><br>
 <h2><span class="yellow">9日深夜はメタバースのClusterでイベント見てました</span></h2>
 <a href="20250610_001.PGN" target="_blank"><img src="20250610_001.PNG" alt="サンプル画像" width="900" /></a>
 
@@ -205,8 +205,8 @@ p.note { display: none; }
 <h2><span class="yellow">急遽ピンチヒッターが出てきてイベントを引き継ぎました</span></h2>
 <a href="20250610_003.PNG" target="_blank"><img src="20250610_003.PNG" alt="サンプル画像" width="900" /></a>
 
-
-<a href="https://cluster.mu/" target="_blank">Clusterの説明リンク貼りますね〜</a>
+<br><br>
+<a href="https://cluster.mu/" target="_blank">Clusterの説明リンク貼りますね〜(この文字クリックで飛びます)</a>
 
 
 <br><br><br><br><br><br><br><br><br>
